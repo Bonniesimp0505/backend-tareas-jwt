@@ -1,3 +1,8 @@
+
+
+
+
+
 # Backend en Node.js + Express con autenticación JWT
 
 API REST desarrollada en Node.js, Express y MongoDB (Mongoose) bajo el patrón **MVC**. Permite registrar usuarios con contraseñas encriptadas (`bcrypt`), iniciar sesión generando un **JSON Web Token (JWT)** y realizar un CRUD de tareas protegido con **Bearer Token**, donde cada usuario únicamente puede ver, modificar y eliminar sus propias tareas.
